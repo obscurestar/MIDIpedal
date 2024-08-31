@@ -38,3 +38,6 @@ eg:
 
 DEPENDENCIES:
    https://github.com/obscurestar/arduino_widgets 
+   you may need do the following after intial checkout: 
+   git submodule init
+   git submodule update
